@@ -23,6 +23,15 @@ A Restaurant Management System developed using PHP, MySQL, HTML, CSS, Bootstrap,
 - JavaScript
 - XAMPP
 
+## Database
+
+The project uses MySQL as the backend database.
+
+### Database Files
+
+- `restaurant_db.sql` – Database structure and sample data.
+- `ER_Diagram.png` – Entity Relationship (ER) Diagram of the database.
+
 ## Installation
 1. Copy the project folder into `htdocs`.
 2. Import `restaurant_db.sql` into phpMyAdmin.
